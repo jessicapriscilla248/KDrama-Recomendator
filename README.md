@@ -15,5 +15,5 @@ Mengembangkan KDramas Recommendator dengan content-based filtering dengan data, 
 2. Cosine Similarity -> Melihat tingkat kemiripan antar drama.
 
 ## Web Application
-<img src="\screen\tampilan.JPG" alt="Preview" width="600"/>
+<img src="screen\tampilan.jpg" alt="Preview" width="500"/>
 Demo app: ada pada link portofolio
